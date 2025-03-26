@@ -6,6 +6,10 @@ Dishcovery is a web application that helps users discover recipes based on avail
 
 ## Deployment link for Main branch
 
+```
+dischovery-nucamp.netlify.app
+```
+
 ## Features
 
 - **Home Page:** Search for recipes by ingredient, view search results in a grid.
