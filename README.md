@@ -29,7 +29,7 @@ Dishcovery is built using Vite as a Vanilla JavaScript project. To run the proje
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/dishcovery.git
+   git clone https://github.com/Shivi-Codes/Dishcovery.git
    cd dishcovery
    ```
 2. Install dependencies:
